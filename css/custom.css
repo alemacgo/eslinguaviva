@@ -1,0 +1,30 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+.feature-3.narrow {
+	min-height: 0;
+}
+
+.guard-top {
+	padding-top: 120px;
+}
+
+@media all and (max-width: 767px) {
+  .guard-top {
+    padding-top: 0;
+  }
+}
+
+.separate {
+	margin-top: 30px;
+}
+
+.pricecop {
+	font-size: 45px !important;
+}
+
+.pricing-table {
+	margin-bottom: 10px;
+}
+
+.shortpad {
+	padding-bottom: 0;
+}
