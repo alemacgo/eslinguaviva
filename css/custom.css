@@ -3,13 +3,9 @@
 	min-height: 0;
 }
 
-.guard-top {
-	padding-top: 120px;
-}
-
 @media all and (max-width: 767px) {
-  .guard-top {
-    padding-top: 0;
+  .reduce-top-small {
+    padding-top: 40px;
   }
 }
 
@@ -18,7 +14,7 @@
 }
 
 .pricecop {
-	font-size: 45px !important;
+	font-size: 40px !important;
 }
 
 .pricing-table {
@@ -27,4 +23,8 @@
 
 .shortpad {
 	padding-bottom: 0;
+}
+
+.reduce-top {
+    margin-top: -100px;
 }
