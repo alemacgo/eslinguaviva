@@ -26,7 +26,7 @@
 }
 
 .reduce-top {
-    margin-top: -100px;
+    padding-top: 0;
 }
 
 /*
@@ -36,3 +36,25 @@
     width: 100%;
 }
 */
+
+.navtitle {
+    padding-top: 10px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.menu li a {
+    color: black;
+}
+
+#gobutton {
+    box-shadow: 0 5px 7px #222;
+}
+
+.testimonial {
+    min-height: 391px;
+}
+
+.white {
+    color: #fff;
+}
