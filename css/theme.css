@@ -3251,7 +3251,7 @@ img {
   float: left;
   display: inline-block;
   overflow: hidden;
-  min-height: 300px;
+  min-height: 350px;
   position: relative;
 }
 .tile-right .description,
